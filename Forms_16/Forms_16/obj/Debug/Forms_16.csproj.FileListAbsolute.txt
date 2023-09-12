@@ -1,0 +1,12 @@
+Z:\Forms_16\Forms_16\bin\Debug\Forms_16.exe.config
+Z:\Forms_16\Forms_16\bin\Debug\Forms_16.exe
+Z:\Forms_16\Forms_16\bin\Debug\Forms_16.pdb
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.Form1.resources
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.Properties.Resources.resources
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.csproj.GenerateResource.cache
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.csproj.CoreCompileInputs.cache
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.exe
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.pdb
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.Second.resources
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.Third.resources
+Z:\Forms_16\Forms_16\obj\Debug\Forms_16.csprojAssemblyReference.cache
