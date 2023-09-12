@@ -1,0 +1,53 @@
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe.config
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.pdb
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csprojAssemblyReference.cache
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.Form1.resources
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.Properties.Resources.resources
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.GenerateResource.cache
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.CoreCompileInputs.cache
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.exe
+Z:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.pdb
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe.config
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.pdb
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csprojAssemblyReference.cache
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.Form1.resources
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.Properties.Resources.resources
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.GenerateResource.cache
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.CoreCompileInputs.cache
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.exe
+Z:\ITOG - Bruhov\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.pdb
+E:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe.config
+E:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe
+E:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.pdb
+E:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csprojAssemblyReference.cache
+E:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.Properties.Resources.resources
+E:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.GenerateResource.cache
+E:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.exe
+E:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.pdb
+E:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.MainGame.resources
+E:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.StartForm.resources
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe.config
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.exe
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\UgadayKartunkuProject.pdb
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csprojAssemblyReference.cache
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.MainGame.resources
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.Properties.Resources.resources
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.StartForm.resources
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.GenerateResource.cache
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.exe
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.pdb
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.CoreCompileInputs.cache
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\Interop.MediaPlayer.dll
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\Interop.WMLSS.dll
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\Interop.WMPLib.dll
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.ResolveComReference.cache
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.csproj.CopyComplete
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\microsoft.directx.dll
+C:\UgadayKartunkuProject\UgadayKartunkuProject\obj\Debug\UgadayKartunkuProject.Itogi.resources
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\microsoft.directx.xml
+C:\UgadayKartunkuProject\UgadayKartunkuProject\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
